@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ellaf\\OneDrive\\Documents\\GitHub\\UnityGame\\Space Game\\",
+  "WorkspaceRootPath": "C:\\Users\\Florence\\GitHub\\UnityGame\\Space Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellaf\\OneDrive\\Documents\\GitHub\\UnityGame\\Space Game\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{EC19933E-13EF-F540-D297-91BC7A86B658}|Assembly-CSharp.csproj|c:\\users\\florence\\github\\unitygame\\space game\\assets\\scripts\\character\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19933E-13EF-F540-D297-91BC7A86B658}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "C:\\Users\\ellaf\\OneDrive\\Documents\\GitHub\\UnityGame\\Space Game\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "ToolTip": "C:\\Users\\ellaf\\OneDrive\\Documents\\GitHub\\UnityGame\\Space Game\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-02-02T16:55:44.696Z",
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\Florence\\GitHub\\UnityGame\\Space Game\\Assets\\Scripts\\Character\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Movement.cs",
+              "ToolTip": "C:\\Users\\Florence\\GitHub\\UnityGame\\Space Game\\Assets\\Scripts\\Character\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Movement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:15:58.4Z",
               "EditorCaption": ""
             }
           ]
