@@ -5437,7 +5437,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1566687785}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: d5cf0c33fe2a6584a82077fc6d9c8c3e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5838,8 +5838,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1425489871}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 215.56747, y: 12.2, z: -353.9015}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 42.229416, y: 16.259617, z: -34.903534}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5848,7 +5848,7 @@ Transform:
   - {fileID: 675408176}
   - {fileID: 2015224670}
   - {fileID: 1115315659}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1566687785}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1464371865
 GameObject:
@@ -6328,6 +6328,8 @@ Transform:
   - {fileID: 1746000638}
   - {fileID: 303534485}
   - {fileID: 509779963}
+  - {fileID: 2026915234}
+  - {fileID: 1425489872}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1578744913
@@ -8864,12 +8866,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2026915230}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 202.3, y: 12.26, z: -375}
+  m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 28.961945, y: 16.319618, z: -56.002045}
   m_LocalScale: {x: 2.4, y: 1, z: 1.7331476}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1566687785}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!1 &2027984647
 GameObject:
@@ -9449,7 +9451,5 @@ SceneRoots:
   - {fileID: 318092922}
   - {fileID: 772959787}
   - {fileID: 1566687785}
-  - {fileID: 2026915234}
-  - {fileID: 1278290945}
   - {fileID: 194079356}
   - {fileID: 855942136}
