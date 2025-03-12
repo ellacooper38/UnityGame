@@ -1,10 +1,26 @@
 {
   "Version": 1,
+  
+  "WorkspaceRootPath": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC19933E-13EF-F540-D297-91BC7A86B658}|Assembly-CSharp.csproj|d:\\unity stuff\\projects\\unitygame-minimap\\space game\\assets\\textboxes\\dialoguetriggee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19933E-13EF-F540-D297-91BC7A86B658}|Assembly-CSharp.csproj|solutionrelative:assets\\textboxes\\dialoguetriggee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC19933E-13EF-F540-D297-91BC7A86B658}|Assembly-CSharp.csproj|D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\assets\\textboxes\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19933E-13EF-F540-D297-91BC7A86B658}|Assembly-CSharp.csproj|solutionrelative:assets\\textboxes\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\assets\\textboxes\\dialoguemanegerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\textboxes\\dialoguemanegerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
   "WorkspaceRootPath": "C:\\Users\\ellaf\\OneDrive\\Documents\\GitHub\\UnityGame\\Space Game\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellaf\\OneDrive\\Documents\\GitHub\\UnityGame\\Space Game\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+
     }
   ],
   "DocumentGroupContainers": [
@@ -14,6 +30,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dialogue.cs",
+              "DocumentMoniker": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\Assets\\Textboxes\\Dialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Textboxes\\Dialogue.cs",
+              "ToolTip": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\Assets\\Textboxes\\Dialogue.cs",
+              "RelativeToolTip": "Assets\\Textboxes\\Dialogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:41:46.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogueTriggee.cs",
+              "DocumentMoniker": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\Assets\\Textboxes\\DialogueTriggee.cs",
+              "RelativeDocumentMoniker": "Assets\\Textboxes\\DialogueTriggee.cs",
+              "ToolTip": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\Assets\\Textboxes\\DialogueTriggee.cs",
+              "RelativeToolTip": "Assets\\Textboxes\\DialogueTriggee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:58:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueManegerer.cs",
+              "DocumentMoniker": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\Assets\\Textboxes\\DialogueManegerer.cs",
+              "RelativeDocumentMoniker": "Assets\\Textboxes\\DialogueManegerer.cs",
+              "ToolTip": "D:\\Unity Stuff\\Projects\\UnityGame-Minimap\\Space Game\\Assets\\Textboxes\\DialogueManegerer.cs",
+              "RelativeToolTip": "Assets\\Textboxes\\DialogueManegerer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:21:57.735Z"
+
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -28,6 +84,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
               "WhenOpened": "2025-02-02T16:55:44.696Z",
               "EditorCaption": ""
+
             }
           ]
         }
